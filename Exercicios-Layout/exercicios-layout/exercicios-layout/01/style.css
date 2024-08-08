@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    width: 100px;
+    margin-left: 2vw;
+}
+
+button {
+    background-color: rgb(49, 64, 81);
+    font-size: 15px;
+    color: white;
+    border: none;
+}
+
+.header {
+    position: absolute;
+    width: 100vw;
+    background-color: rgb(49, 64, 81);
+    display: flex;
+}
+
+.home {
+    margin-top: 8px;
+    justify-content: right;
+    margin-left: 55vw;    
+}
+
+.margin {
+    margin: 10px;
+}
+
+.boxes {
+    width: 100vw;
+    height: 65vh;
+    display: flex;
+}
+
+.box1 {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 2%;
+    width: 20%;
+    height: 50%;
+}
+
+.box2 {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 26%;
+    width: 20%;
+    height: 50%;
+}
+
+.box3 {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 49%;
+    width: 20%;
+    height: 50%;
+}
+
+.box4 {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 72%;
+    width: 20%;
+    height: 50%;
+}
+
+.reservar {
+    border-radius: 7px;
+    height: 50px;
+    width: 85px;
+}
+
+.img {
+    height: 50%;
+    width: 100%;
+}
+
+.bg-image {
+    position: absolute;
+    background-color: aqua;
+    width: 100vw;
+    height: 600px;
+    background-image: url(./imagens/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.cadastrar {
+    position: relative;
+    height: 100px;
+    width: 80vw;
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+    opacity: 50%;
+}
+.font-size {
+    font-size: 35px;
+    text-align: center;
+}
+.divBusca {
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.text-purple { color: #673A6F; }
+.bg-purple {background-color: #673A6F;}
+.line {
+    width: 300px;
+    height: 5px;
+    background-color: #673A6F;
+    border-radius: 10px;
+    margin: 10px auto;
+}

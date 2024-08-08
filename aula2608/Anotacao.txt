@@ -1,0 +1,2 @@
+ctrl+d => selecionar o mesmo "nome" no código;
+Ctrl+Alt => Aumenta a barra para escrever em diversas linhas

@@ -1,0 +1,32 @@
+/* Linkando Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Poppins:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2{
+    color: #e9644c;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+div {
+    width:70%;
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: lightskyblue; */
+
+    border: 1px solid #87cefa;
+    border-radius: 7px;
+} 
+
+h2 {
+    font-size: 30px;
+}
+
+img {
+    width: 100%;
+    border-radius: 7px 7px 0 0;
+}
